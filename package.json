@@ -2,14 +2,23 @@
     "name": "theme-firewatch",
     "displayName": "Firewatch Theme",
     "description": "A Firewatch theme for Visual Studio Code ported from Sublime Text Port",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "ulthes",
     "engines": {
-        "vscode": "^1.0.0"
+        "vscode": "*"
+    },
+    "bugs": {
+        "url": "https://gitlab.com/ulthes/firewatch-theme-vscode/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/ulthes/firewatch-theme-vscode.git"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
+    "homepage": "https://gitlab.com/ulthes/firewatch-theme-vscode",
     "contributes": {
         "themes": [
             {
