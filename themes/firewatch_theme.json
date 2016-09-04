@@ -1,0 +1,41 @@
+{
+    "name": "Firewatch Theme",
+    "settings": [
+        {
+            "scope": "emphasis",
+            "settings": {
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "strong",
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "header",
+            "settings": {
+                "foreground": "#DD672C"
+            }
+        },
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#5C6370"
+            }
+        },
+        {
+            "scope": "constant.language",
+            "settings": {
+                "foreground": "#D19A66"
+            }
+        },
+        {
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#D19A66"
+            }
+        }
+    ]
+}
