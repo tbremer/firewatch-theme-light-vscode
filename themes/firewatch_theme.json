@@ -36,6 +36,36 @@
             "settings": {
                 "foreground": "#D19A66"
             }
+        },
+        {
+            "scope": "constant.regexp",
+            "settings": {
+                "foreground": "#56B6C2"
+            }
+        },
+        {
+            "scope": "constant.rgb-value",
+            "settings": {
+                "foreground": "#EBEBFF"
+            }
+        },
+        {
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#D19A66"
+            }
+        },
+        {
+            "scope": "entity.name.function",
+            "settings": {
+                "foreground": "#EBEBFF"
+            }
+        },
+        {
+            "scope": "entity.name.class",
+            "settings": {
+                "foreground": "#EBEBFF"
+            }
         }
     ]
 }
