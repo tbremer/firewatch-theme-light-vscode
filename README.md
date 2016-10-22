@@ -2,16 +2,13 @@
 
 A theme based on [Original Firewatch theme for Atom](https://atom.io/themes/firewatch-syntax) by [Sebastian Szturo](https://github.com/SebastianSzturo)
 
-# Disclaimer #
-
-I know that there are some serious problems with ES6/ES7 support. I'm currently working on that, please be patient.
-
-At first I thought about converting the TextMate theme syntax to native VS Code theme (JSON), however due to lack of documentation on Microsoft part
- I'm going to just patch-up the existing theme so I can release it faster.
-
-Sorry for the delay you experience.
-
 # Changelog #
+
+### 1.0.2 ###
+
+- Updated for Babel/React
+- Changed color for variable (and function, since that's how Babel plugin interprets it)
+- Added support for Visual Studio Code's highlighting and search
 
 ### 1.0.1 ###
 
@@ -23,7 +20,17 @@ Sorry for the delay you experience.
 
 # Screenshot #
 
-![Screenshot](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot.png)
+## Typescript ##
+![Screenshot_typescript](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_typescript.png)
+
+## C# ##
+![Screenshot_csharp](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_csharp.png)
+
+## JavaScript (React) ##
+![Screenshot_javascript_react](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_js_react.png)
+
+## JavaScript (Babel) ##
+![Screenshot_javascript_babel](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_js_react.png)
 
 # License #
 
