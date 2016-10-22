@@ -21,16 +21,16 @@ A theme based on [Original Firewatch theme for Atom](https://atom.io/themes/fire
 # Screenshot #
 
 ## Typescript ##
-![Screenshot_typescript](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_typescript.png)
+![Screenshot_typescript](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_typescript.PNG)
 
 ## C# ##
-![Screenshot_csharp](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_csharp.png)
+![Screenshot_csharp](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_csharp.PNG)
 
 ## JavaScript (React) ##
-![Screenshot_javascript_react](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_js_react.png)
+![Screenshot_javascript_react](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_js_react.PNG)
 
 ## JavaScript (Babel) ##
-![Screenshot_javascript_babel](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_js_react.png)
+![Screenshot_javascript_babel](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_js_react.PNG)
 
 # License #
 
