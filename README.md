@@ -4,6 +4,10 @@ A theme based on [Original Firewatch theme for Atom](https://atom.io/themes/fire
 
 # Changelog #
 
+### 1.0.3 ###
+
+-  Updated to json configuration file for coloring the bottom bar - thanks to [Gabriele Proietti Mattia](https://gitlab.com/gabrielepmattia)
+
 ### 1.0.2 ###
 
 - Updated for Babel/React
