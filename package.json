@@ -1,30 +1,31 @@
 {
-  "name": "theme-firewatch-1",
-  "displayName": "My Firewatch Theme",
-  "description":
-    "A Firewatch theme for Visual Studio Code ported from Sublime Text Port",
-  "version": "1.0.3",
-  "publisher": "ulthes",
-  "engines": {
-    "vscode": "*"
-  },
-  "bugs": {
-    "url": "https://gitlab.com/ulthes/firewatch-theme-vscode/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://gitlab.com/ulthes/firewatch-theme-vscode.git"
-  },
-  "categories": ["Themes"],
-  "icon": "icon.png",
-  "homepage": "https://gitlab.com/ulthes/firewatch-theme-vscode",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Firewatch Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/firewatch.json"
-      }
-    ]
-  }
+    "name": "theme-firewatch",
+    "displayName": "My Firewatch Theme",
+    "description": "A Firewatch theme for Visual Studio Code ported from Sublime Text Port",
+    "version": "1.0.3",
+    "publisher": "ulthes",
+    "engines": {
+        "vscode": "*"
+    },
+    "bugs": {
+        "url": "https://gitlab.com/ulthes/firewatch-theme-vscode/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/ulthes/firewatch-theme-vscode.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "homepage": "https://gitlab.com/ulthes/firewatch-theme-vscode",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Firewatch Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/firewatch.json"
+            }
+        ]
+    }
 }
