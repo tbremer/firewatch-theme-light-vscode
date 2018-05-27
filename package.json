@@ -3,7 +3,7 @@
   "displayName": "My Firewatch Theme",
   "description":
     "A Firewatch theme for Visual Studio Code ported from Sublime Text Port",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "ulthes",
   "engines": {
     "vscode": "*"
