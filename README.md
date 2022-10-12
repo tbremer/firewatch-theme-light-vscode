@@ -1,40 +1,23 @@
 # Firewatch Theme for [Visual Studio Code](http://code.visualstudio.com) #
 
-A theme based on [Original Firewatch theme for Atom](https://atom.io/themes/firewatch-syntax) by [Sebastian Szturo](https://github.com/SebastianSzturo)
+A light theme based on the [Dark Version](https://gitlab.com/ulthes/firewatch-theme-vscode) by [Krzysztof Wisznarewski](https://gitlab.com/ulthes), which is a theme based on [Original Firewatch theme for Atom](https://atom.io/themes/firewatch-syntax) by [Sebastian Szturo](https://github.com/SebastianSzturo)
 
 # Changelog #
 
-### 1.0.3 ###
-
--  Updated to json configuration file for coloring the bottom bar - thanks to [Gabriele Proietti Mattia](https://gitlab.com/gabrielepmattia)
-
-### 1.0.2 ###
-
-- Updated for Babel/React
-- Changed color for variable (and function, since that's how Babel plugin interprets it)
-- Added support for Visual Studio Code's highlighting and search
-
-### 1.0.1 ###
-
-- Dimmed down whitespace characters (tabs, spaces)
-
-### 1.0.0 ###
-
-- Initial release
 
 # Screenshot #
 
 ## Typescript ##
-![Screenshot_typescript](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_typescript.PNG)
+![Screenshot_typescript](#)
 
 ## C# ##
-![Screenshot_csharp](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_csharp.PNG)
+![Screenshot_csharp](#)
 
 ## JavaScript (React) ##
-![Screenshot_javascript_react](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_js_react.PNG)
+![Screenshot_javascript_react](#)
 
 ## JavaScript (Babel) ##
-![Screenshot_javascript_babel](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/screenshot_js_react.PNG)
+![Screenshot_javascript_babel](#)
 
 # License #
 
@@ -49,9 +32,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### Additional copy of this license can be found in repository's [LICENSE](https://gitlab.com/ulthes/firewatch-theme-vscode/raw/master/LICENSE) file. ###
+### Additional copy of this license can be found in repository's [LICENSE](https://github.com/tbremer/firewatch-theme-light-vscode/blob/main/LICENSE) file. ###
 
 # Links #
 
-- [Homepage](https://gitlab.com/ulthes/firewatch-theme-vscode)
-- [Issues](https://gitlab.com/ulthes/firewatch-theme-vscode/issues)
+- [Homepage](https://github.com/tbremer/firewatch-theme-light-vscode)
+- [Issues](https://github.com/tbremer/firewatch-theme-light-vscode/issues)
