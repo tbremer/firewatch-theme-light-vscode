@@ -1,29 +1,29 @@
 {
-    "name": "theme-firewatch",
-    "displayName": "My Firewatch Theme",
-    "description": "A Firewatch theme for Visual Studio Code ported from Sublime Text Port",
-    "version": "1.0.3",
-    "publisher": "ulthes",
+    "name": "theme-firewatch-light",
+    "displayName": "Firewatch Light Theme",
+    "description": "A light Firewatch theme for Visual Studio Code ported from the dark version which is ported from Sublime Text Port",
+    "version": "0.0.0",
+    "publisher": "tbremer",
     "engines": {
         "vscode": "*"
     },
     "bugs": {
-        "url": "https://gitlab.com/ulthes/firewatch-theme-vscode/issues"
+        "url": "https://github.com/tbremer/firewatch-theme-light-vscode/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://gitlab.com/ulthes/firewatch-theme-vscode.git"
+        "url": "https://github.com/tbremer/firewatch-theme-light-vscode.git"
     },
     "categories": [
         "Themes"
     ],
     "icon": "icon.png",
-    "homepage": "https://gitlab.com/ulthes/firewatch-theme-vscode",
+    "homepage": "https://github.com/tbremer/firewatch-theme-light-vscode",
     "contributes": {
         "themes": [
             {
-                "label": "Firewatch Theme",
-                "uiTheme": "vs-dark",
+                "label": "Firewatch Light Theme",
+                "uiTheme": "vs",
                 "path": "./themes/firewatch.json"
             }
         ]
