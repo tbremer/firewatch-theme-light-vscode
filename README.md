@@ -8,16 +8,16 @@ A light theme based on the [Dark Version](https://gitlab.com/ulthes/firewatch-th
 # Screenshot #
 
 ## Typescript ##
-![Screenshot_typescript](#)
+
 
 ## C# ##
-![Screenshot_csharp](#)
+
 
 ## JavaScript (React) ##
-![Screenshot_javascript_react](#)
+
 
 ## JavaScript (Babel) ##
-![Screenshot_javascript_babel](#)
+
 
 # License #
 
