@@ -171,6 +171,10 @@
       }
     },
     {
+      "scope": ["entity.other.attribute-name"],
+      "settings":{ "foreground": "#c8a35a" }
+    }, 
+    {
       "name": "Library class/type",
       "scope": ["support.type", "support.class"],
       "settings": {
