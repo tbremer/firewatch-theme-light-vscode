@@ -10,6 +10,7 @@
     "editor.background": "#faf7f4",
     "editor.foreground": "#886624",
     "editor.selectionBackground": "#e5dcca",
+    "editor.foldBackground": "#e5dcca4d",
     "panel.background": "#faf7f4",
     "sideBar.background": "#faf7f4",
     "sideBar.border": "#f0eeeb",
@@ -39,7 +40,11 @@
     "statusBarItem.activeBackground": "#faf7f4",
     "statusBarItem.hoverBackground": "#fbfbfb",
     "statusBarItem.prominentBackground": "#faf7f4",
-    "statusBarItem.prominentHoverBackground": "#fbfbfb"
+    "statusBarItem.prominentHoverBackground": "#fbfbfb",
+    "button.background": "#71bdf2",
+    "button.foreground": "#484a53",
+    "button.secondaryBackground": "#484a53",
+    "button.secondaryBoreground": "#71bdf2"
   },
   "tokenColors": [
     {
