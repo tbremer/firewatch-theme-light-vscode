@@ -10,20 +10,20 @@ A light theme based on the [Dark Version](https://gitlab.com/ulthes/firewatch-th
 Screenshots taken from [VS Code Themes](https://vscodethemes.com/e/tbremer.theme-firewatch-light/firewatch-light-theme)
 
 ## JavaScript ## 
-![JavaScript Screenshot from VSCodeThemes.com](https://vscodethemes.com/e/tbremer.theme-firewatch-light/firewatch-light-theme.svg?language=javascript)
+![JavaScript Screenshot from VSCodeThemes.com](/screenshots/javascript.png)
 
 
 ## C++ ##
-![C++ Screenshot from VSCodeThemes.com](https://vscodethemes.com/e/tbremer.theme-firewatch-light/firewatch-light-theme.svg?language=cpp)
+![C++ Screenshot from VSCodeThemes.com](/screenshots/cpp.png)
 
 ## Python ##
-![Python Screenshot from VSCodeThemes.com](https://vscodethemes.com/e/tbremer.theme-firewatch-light/firewatch-light-theme.svg?language=python)
+![Python Screenshot from VSCodeThemes.com](/screenshots/python.png)
 
 ## CSS ##
-![CSS Screenshot from VSCodeThemes.com](https://vscodethemes.com/e/tbremer.theme-firewatch-light/firewatch-light-theme.svg?language=css)
+![CSS Screenshot from VSCodeThemes.com](/screenshots/css.png)
 
 ## HTML ##
-![HTML Screenshot from VSCodeThemes.com](https://vscodethemes.com/e/tbremer.theme-firewatch-light/firewatch-light-theme.svg?language=html)
+![HTML Screenshot from VSCodeThemes.com](/screenshots/html.png)
 
 # License #
 
