@@ -2,7 +2,7 @@
     "name": "theme-firewatch-light",
     "displayName": "Firewatch Light Theme",
     "description": "A light Firewatch theme for Visual Studio Code ported from the dark version which is ported from Sublime Text Port",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "publisher": "tbremer",
     "engines": {
         "vscode": "*"
